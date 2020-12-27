@@ -3,3 +3,4 @@ Saturno
 Netuno
 Plutão
 Júpiter
+Mercúrio
