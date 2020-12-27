@@ -4,3 +4,4 @@ Netuno
 Plutão
 Júpiter
 Mercúrio
+Terra
